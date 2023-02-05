@@ -1,4 +1,4 @@
 ### Hi, I´m Nelson Alejandro Castro Andrews 
 <p align="center">
-<img src="https://res.infoq.com/articles/data-science-organization-framework/en/smallimage/data-science-organization-framework-s-1556565301516.jpeg"  height=300>
+<img src="https://www.masterdatascienceucm.com/wp-content/uploads/2020/07/data-science-analisis-de-datos.jpg.webp"  height=300>
 </p>
