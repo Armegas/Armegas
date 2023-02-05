@@ -1,4 +1,6 @@
-### Hi, I´m Nelson Alejandro Castro Andrews 👋
+### Hi, I´m Nelson Alejandro Castro Andrews <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l33pif/l33pif/master/Images/Hi.gif">
+</picture>
 
 <!--
 **Armegas/Armegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
