@@ -9,7 +9,7 @@ Soy un Cientifico de Datos
   
 </p>
                                                                                   
-Hola soy Ingeniero de sistemas con 20 años de experiencia. En mis empleos anteriores me he destacado por desarrollar soluciones de software y teniendo en cuenta el ciclo de vida del dato. Además, tengo conocimientos de programación y manejo avanzado de lenguajes como  Python y me especializo en Data Science.
+Como Ingeniero de sistemas graduado desde el año 2001 tengo experiencia en diversas areas, ya que sistemas es un campo bastante extenso, sin embargo en una accion por mantenerme actualizado y a la vanguardia tecnologica para seguir mejorando mis competencias en esta area tan apasionante, e dedicado un breve tiempo a la actualizacion de mis conocimientos y en el camino decidi especializarme como DATA SCIENCE, En mis empleos anteriores me he destacado por desarrollar soluciones de software, desarrollo e implementacion, Hardware con acciones de configuracion, mantenimiento preventivo y correctivo. Ahora teniendo en cuenta los DATOS y el ciclo de vida del mismo, el dominio de la programación y manejo avanzado de lenguajes como  Python, R, Javascript y C++ y me especializo en Data Science.
 
 Dado mi experiencia en el modelado y la visualización de datos, así como mis conocimientos de programación, encajarían perfectamente como científico de datos, tengo amplia comprensión del sector.
 
