@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l33pif/l33pif/master/Images/Hi.gif">
-  </picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l33pif/l33pif/master/Images/Hi.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/l33pif/l33pif/master/Images/Hi.gif">
+</picture>
