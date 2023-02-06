@@ -14,6 +14,7 @@ Como Ingeniero de sistemas graduado en 2001, veo que sistemas es un campo bastan
 
 <p align="center"> 
 <img src="https://i.ytimg.com/vi/o-_xr4jgZbs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIGUoTjAP&rs=AOn4CLAu_6JGa-fnSep3zgAVP2HeGMljAA" height=300>
-
+</p> 
+<p align="center"> 
 Link (https://www.youtube.com/watch?v=o-_xr4jgZbs&t=1s)
 </p>                                                                    
