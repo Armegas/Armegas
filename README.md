@@ -33,9 +33,9 @@ Otras de las ventajas de Git es que cada proyecto posee funciones de colaboraci√
                                                                                                              
                                                                                                              
 
-                                                                                                             <p align="center">
+<p align="center">
 <img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=200>
- </p>                                                                                                              
+</p>                                                                                                              
 
 # Power BI
                                                                                                          
