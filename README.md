@@ -32,7 +32,8 @@ Tener conocimientos de Git es un requisito básico para cualquier científico de
 Otras de las ventajas de Git es que cada proyecto posee funciones de colaboración, de control de  acceso, de seguimiento de errores, de solicitudes de funciones, de integración continua, de wikis y de gestión de tareas. Esta herramienta dispone de una versión gratuita en la que se incluyen sus servicios básicos y de otra de pago con servicios más avanzados pensada para profesionales y empresas.
                                                                                                              
                                                                                                              
-<p align="center">
+
+                                                                                                             <p align="center">
 <img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=200>
  </p>                                                                                                              
 
