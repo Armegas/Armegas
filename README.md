@@ -31,8 +31,7 @@ Soy un Cientifico de Datos Acreditado por:
 Tener conocimientos de Git es un requisito básico para cualquier científico de datos, ya que  es una de las herramientas más utilizadas para la creación de código fuente. Esta herramienta subsidiaria de Microsoft proporciona alojamiento para el desarrollo de software, la gestión de código fuente (SCM) y  el control de versiones distribuidas usando Git. Git cuenta con una plataforma online llamada GitHub. GitHub permite el alojamiento de proyectos de código abierto, con lo cual, muchos de los códigos fuente se almacenan de forma pública. Esto convierte la aplicación en una especie de banco de código gratuito. Así, esta herramienta permite a los científicos de datos exhibir y publicar sus bloques de código en forma de Gists, compartir su trabajo e intercambiar conocimiento con otros científicos de datos. 
 Otras de las ventajas de Git es que cada proyecto posee funciones de colaboración, de control de  acceso, de seguimiento de errores, de solicitudes de funciones, de integración continua, de wikis y de gestión de tareas. Esta herramienta dispone de una versión gratuita en la que se incluyen sus servicios básicos y de otra de pago con servicios más avanzados pensada para profesionales y empresas.
                                                                                                              
- 
-
+                                                                                                             
 <p align="center">
 <img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=200>
  </p>                                                                                                              
