@@ -1,6 +1,6 @@
 
 ## Hi, my name´s Nelson Alejandro Castro Andrews
-Data Science / Data Analytics / Data Engineer / Machine Learning / IA / System Engineer / 
+***Data Science / Data Analytics / Data Engineer / Machine Learning / IA / System Engineer***
 
 ***Contacto:*** 
 
