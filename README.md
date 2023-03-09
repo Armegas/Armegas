@@ -53,10 +53,14 @@ Power BI es un conjunto de herramientas, servicios de software y aplicaciones or
                                                                                                          
 A pesar de no ser una herramienta en sí, SQL es, sin duda, imprescindible para cualquier científico de datos. SQL es un lenguaje de programación específico para bases de datos que permite administrar y gestionar datos en bases de datos SQL como MySQL o Microsoft SQL Server. 
 
-Asimismo, dominar el lenguaje SQL también es necesario para trabajar con otros lenguajes de programación como Python.                                                                                
-Repositorios públicos 
-                                                                                  
-Destacados
+Asimismo, dominar el lenguaje SQL también es necesario para trabajar con otros lenguajes de programación como Python. 
+                                                                                                         
+                                                                                                         
+## Repositorios públicos 
+      
+                                                                                                         
+                                                                                                         
+## Destacados
 
 <p align="center"> 
 <img src="https://i.ytimg.com/vi/o-_xr4jgZbs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIGUoTjAP&rs=AOn4CLAu_6JGa-fnSep3zgAVP2HeGMljAA" height=300>
