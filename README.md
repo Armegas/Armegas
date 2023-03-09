@@ -11,9 +11,9 @@ e-mail: nelson.pptcol@gmail.com
 # Bienvenidos a mi Github
 Soy un Cientifico de Datos Acreditado por:
 <p align="center">
-<img src="https://www.masterdatascienceucm.com/wp-content/uploads/2020/07/data-science-analisis-de-datos.jpg.webp"  height=200>
-<img src="https://coursereport-production.imgix.net/uploads/school/logo/1185/original/HENRY_logo.jpg?w=200&h=200&dpr=4&q=23"  height=200>
-<img src=https://th.bing.com/th/id/OIP.fC5LEMyoq9p-FQNnthTvFQHaEo?pid=ImgDet&rs=1" height=200>
+<img src="https://www.masterdatascienceucm.com/wp-content/uploads/2020/07/data-science-analisis-de-datos.jpg.webp"  height=100>
+<img src="https://coursereport-production.imgix.net/uploads/school/logo/1185/original/HENRY_logo.jpg?w=200&h=200&dpr=4&q=23"  height=100>
+<img src=https://th.bing.com/th/id/OIP.fC5LEMyoq9p-FQNnthTvFQHaEo?pid=ImgDet&rs=1" height=100>
   
 </p>
                                                                                   
@@ -23,7 +23,7 @@ Soy un Cientifico de Datos Acreditado por:
 # ***Tecnologías que uso:***
                                                                                   
 <p align="center">
-<img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=200>
+<img src="https://th.bing.com/th/id/R.37af55f62f3c0e82d084c35cf59f5439?rik=D0%2b%2bn6xD4EI3Zw&pid=ImgRaw&r=0" height=100>
  </p> 
                                                                                                              
 # Git
@@ -34,7 +34,7 @@ Otras de las ventajas de Git es que cada proyecto posee funciones de colaboraci�
                                                                                                              
 
 <p align="center">
-<img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=200>
+<img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=100>
 </p>                                                                                                              
 
 # Power BI
@@ -44,16 +44,14 @@ Power BI es un conjunto de herramientas, servicios de software y aplicaciones or
                                                                                                          
  
 <p align="center">
-<img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=200>
+<img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=100>
  </p>                                                                                                                     
       
                                                                                                          
 # SQL
                                                                                                          
                                                                                                          
-A pesar de no ser una herramienta en sí, SQL es, sin duda, imprescindible para cualquier científico de datos. SQL es un lenguaje de programación específico para bases de datos que permite administrar y gestionar datos en bases de datos SQL como MySQL o Microsoft SQL Server. 
-
-Asimismo, dominar el lenguaje SQL también es necesario para trabajar con otros lenguajes de programación como Python. 
+A pesar de no ser una herramienta en sí, SQL es, sin duda, imprescindible para cualquier científico de datos. SQL es un lenguaje de programación específico para bases de datos que permite administrar y gestionar datos en bases de datos SQL como MySQL o Microsoft SQL Server. Asimismo, dominar el lenguaje SQL también es necesario para trabajar con otros lenguajes de programación como Python. 
                                                                                                          
                                                                                                          
 ## Repositorios públicos 
