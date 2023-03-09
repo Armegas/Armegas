@@ -34,13 +34,14 @@ Otras de las ventajas de Git es que cada proyecto posee funciones de colaboraci�
 <p align="center">
 <img src="https://th.bing.com/th/id/R.2c64feba5f8846b36d851b19e0be7541?rik=cpkHggpR6F1GsA&pid=ImgRaw&r=0" height=200>
  </p>                                                                                                              
+
 # Power BI
                                                                                                          
                                                                                                              
 Power BI es un conjunto de herramientas, servicios de software y aplicaciones orientadas al business intelligence; es decir, a la identificación de KPIs e insights para la toma de mejores decisiones. Es, por lo tanto, una herramienta esencial para el análisis y la visualización de datos en entornos empresariales.
  
 <p align="center">
-<img src="https://th.bing.com/th/id/R.f049ade92f241419ea5f58a796cc1c2b?rik=K2iGEMfhFsjF%2bw&pid=ImgRaw&r=0" height=200>
+<img src="https://th.bing.com/th/id/R.a929d9109ee20ac48525f3f2dd34a67b?rik=rwnvFwGodof68g&pid=ImgRaw&r=0" height=200>
  </p>                                                                                                                     
                                                                                                          
 # SQL
