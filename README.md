@@ -1,6 +1,10 @@
 
 ### Hi, my name´s Nelson Alejandro Castro Andrews
 Data Science / Data Analytics / Data Engineer / Machine Learning / IA / System Engineer / 
+***Contacto:*** 
+linkedin: https://www.linkedin.com/in/nelson-castro-01a439254/
+e-mail: nelson.pptcol@gmail.com
+
 # Bienvenidos a mi Github
 Soy un Cientifico de Datos
 <p align="center">
