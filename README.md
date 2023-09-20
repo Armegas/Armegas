@@ -1,10 +1,3 @@
-<p align="center">
-<img src="[https://www.syntonize.com/wp-content/uploads/2021/08/ciencia-de-los-datos-2.jpg" height=200>
- 
-</p> 
-
-
-
 ## Hi, my name´s Nelson Alejandro Castro Andrews
 ***Data Science / Data Analytics / Data Engineer / Machine Learning / IA / System Engineer***
 
