@@ -1,6 +1,7 @@
 <p align="center">
-<img src="[https://www.syntonize.com/wp-content/uploads/2021/08/ciencia-de-los-datos-2.jpg" height=300>
- </p> 
+<img src="[https://www.syntonize.com/wp-content/uploads/2021/08/ciencia-de-los-datos-2.jpg" height=200>
+ 
+</p> 
 
 
 
