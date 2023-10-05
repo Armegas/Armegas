@@ -70,4 +70,4 @@ Link (https://www.youtube.com/watch?v=o-_xr4jgZbs&t=1s)
 <p align="center"> 
 Link (https://www.loom.com/share/724d0be9fd9b43eca1665f43031269a6)
 </p>        
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7115702026683981824" height="736" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada" height=300>
+<img src="https://www.linkedin.com/embed/feed/update/urn:li:share:7115702026683981824" height="736" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada" height=300>
