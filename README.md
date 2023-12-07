@@ -77,4 +77,7 @@ Link (https://www.youtube.com/watch?v=o-_xr4jgZbs&t=1s)
 </p> 
 <p align="center"> 
 Link (https://www.loom.com/share/724d0be9fd9b43eca1665f43031269a6)
+</p> 
+<p align="center"> 
+Link (https://www.tiktok.com/@georgequintero1975/video/7308461786129435909)
 </p>        
