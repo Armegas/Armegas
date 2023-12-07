@@ -51,7 +51,15 @@ Power BI es un conjunto de herramientas, servicios de software y aplicaciones or
                                                                                                          
                                                                                                          
 A pesar de no ser una herramienta en sí, SQL es, sin duda, imprescindible para cualquier científico de datos. SQL es un lenguaje de programación específico para bases de datos que permite administrar y gestionar datos en bases de datos SQL como MySQL o Microsoft SQL Server. Asimismo, dominar el lenguaje SQL también es necesario para trabajar con otros lenguajes de programación como Python. 
-                                                                                                         
+
+# Resumen de mis competencias y los Servicios Profesionales que Ofrezco:
+
+Servicios profesionales en: Ciencia de datos / Ingeniero de datos / Ingeniero de Sistemas / Analista de Datos / Consultor Funcional SAP, ERP (MM) / Modelos en Producción presto mis servicios en Remoto, Jornada parcial o completa, también realizo trabajos Freelance, estas son algunas de las tecnologías y competencias técnicas que manejo:  Python / ABAP / R / Carbon / C++ / HTML 5 / CSS / Visual Foxpro / Visual Basic / Turbo Pascal / Java / RPG / Cloud Pak for Data / IBM DataStage - Sterling, Control-M / ETL / Basis / NetWeaver / BW / Smartforms / AVRO / FORMATOS:  CSV - XML - JSON - PARQUET - MARKDOWN / Implementación de metodología DevOps, / Git / Github/ Pipeline CI/CD / MongoDB / SQL / MATLAB / SCRUM / POWER BI / Azure / IA, / EDA / Ajax / Bootstrap / SCALA / SPARK / PANDAS / NUMPY / VSC.
+
+¿Qué Te parece si hablamos sobre mí? Me gustaría informarme al respecto de las oportunidades que ofreces y comentarte cuáles son mis aspiraciones. Quedo a la espera de tu respuesta. 
+
+¡¡¡A romperla mi gente!!!
+        Nelson Castro                                                                                                        
                                                                                                          
 ## Repositorios públicos 
       
